@@ -17,7 +17,7 @@
 ###
 
 <p align="center">
-  <img src="[https://github-readme-stats-fast.vercel.app/api?username=Fohin6&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru](https://camo.githubusercontent.com/07cb2e7db030440600c17f56a36b22be62b2b5acdf01575945d1efe91ff37611/68747470733a2f2f6769746875622d726561646d652d73746174732d666173742e76657263656c2e6170702f6170693f757365726e616d653d466f68696e36267468656d653d626561722673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565266c6f63616c653d7275)">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Fohin6&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
